@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "8012fa59-5f06-44b0-873d-f4b78739abea",
+            "Value": {
+                "id": "90264023-4b64-49f6-9f12-5ad8f5255c8f",
+                "resourcePath": "sprites\\o_Enemy_Test\\o_Enemy_Test.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "99a4f4ff-5c79-4402-969a-3cb47284c362",
             "Value": {
                 "id": "c7fb7ec4-0f9e-4422-9452-7eb9ac1c6b02",
